@@ -1,0 +1,33 @@
+.feed{
+    width:20rem;
+    border-radius: 15%;
+}
+
+.feed img{
+    width: 20rem;
+    height: 10rem;
+    border-radius: 10%;
+    object-fit: cover;
+    
+}
+
+.feed .cardBody{
+    border-radius: 15%;
+    box-shadow: 1px 6px #8888;
+    margin-top: -9%;
+    background-color: white;
+    width: 311px;
+    position: relative;
+    line-height: 10px;
+}
+
+.feed .cardBody span{
+    color : gray
+}
+
+.feed .bi{
+    font-size: 109px;
+    margin-bottom: -150px;
+    position: relative;
+    cursor:pointer;
+}
